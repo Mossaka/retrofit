@@ -2,3 +2,5 @@
 
 *.bat text eol=crlf
 *.jar binary
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
